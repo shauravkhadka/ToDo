@@ -21,13 +21,13 @@ In your chosen API client (curl via terminal, [Postman](https://www.getpostman.c
 ### UML Diagrams
 Overall view of the schema design. Using [StarUML](http://staruml.io) for diagramming.
 ## 1.5
-![alt text](https://raw.githubusercontent.com/shauravkhadka/ToDo/master/images/UMLs/ToDo-UML-1.5.png "Version 1.5 UML")
+![alt text](https://raw.githubusercontent.com/shauravkhadka/ToDo/master/images/UMLs/TODO-UML-1.5.png "Version 1.5 UML")
 ### Older versions
-* [1.4 - no api_key](https://raw.githubusercontent.com/shauravkhadka/ToDo/master/images/UMLs/ToDo-UML-1.4.png) 
-* [1.3 - No completed/not completed](https://raw.githubusercontent.com/shauravkhadka/ToDo/master/images/UMLs/ToDo-UML-1.3.png) 
-* [1.2 - Before user_log_activity](https://raw.githubusercontent.com/shauravkhadka/ToDo/master/images/UMLs/ToDo-UML-1.2.png) 
-* [1.1 - Did not have password attributes](https://raw.githubusercontent.com/shauravkhadka/ToDo/master/images/UMLs/ToDo-UML-1.1.png) 
-* [1.0 - Wrong order on cardinality](https://raw.githubusercontent.com/shauravkhadka/ToDo/master/images/UMLs/ToDo-UML-1.0.png) 
+* [1.4 - no api_key](https://raw.githubusercontent.com/shauravkhadka/ToDo/master/images/UMLs/TODO-UML-1.4.png) 
+* [1.3 - No completed/not completed](https://raw.githubusercontent.com/shauravkhadka/ToDo/master/images/UMLs/TODO-UML-1.3.png) 
+* [1.2 - Before user_log_activity](https://raw.githubusercontent.com/shauravkhadka/ToDo/master/images/UMLs/TODO-UML-1.2.png) 
+* [1.1 - Did not have password attributes](https://raw.githubusercontent.com/shauravkhadka/ToDo/master/images/UMLs/TODO-UML-1.1.png) 
+* [1.0 - Wrong order on cardinality](https://raw.githubusercontent.com/shauravkhadka/ToDo/master/images/UMLs/TODO-UML-1.0.png) 
 
 *** 
 
